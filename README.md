@@ -19,14 +19,14 @@ Para abordar esta hipótesis, el proyecto bajo un enfoque principal:
 ## Metodología del Proyecto
 El desarrollo del proyecto sigue una secuencia estructurada de pasos:
 1. **Backtest Estrategia**
-1.1. Carga y preparacion de datos
-1.2. Logica de la estrategia y backtest
-1.3. Analisis de resultados
+  1.1. Carga y preparacion de datos
+  1.2. Logica de la estrategia y backtest
+  1.3. Analisis de resultados
    
 2. **Modelado**: 
-2.1. Preparacion de los datos
-2.2. Ingenieria de caracteristicas
-2.3. Modelado y optimizacion
+  2.1. Preparacion de los datos
+  2.2. Ingenieria de caracteristicas
+  2.3. Modelado y optimizacion
 
 3. **Análisis de Resultados y Conclusiones**: Interpretación de los resultados obtenidos, evaluando el impacto de los modelos en la estrategia y extrayendo conclusiones sobre su viabilidad y efectividad.
 
